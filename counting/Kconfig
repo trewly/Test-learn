@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_COUNTING
+	bool "counting"
+	default n
+	---help---
+		Enable support for counting
